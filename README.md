@@ -28,5 +28,6 @@ One notable advantage of Naive Bayes is its resistance to overfitting, which can
 
 While Naive Bayes is a powerful algorithm, it does have limitations. The assumption of feature independence may not always hold in real-world scenarios, and the algorithm might struggle when dealing with highly correlated features. Additionally, it might not perform as well in tasks where complex relationships between features significantly impact the decision boundary.
 
+# Simple Way to Understand the Algorithm 
 
 ![IMG_20240120_201950](https://github.com/BimsaraS99/naive-bayes-algorithm-ml/assets/107334404/975b0492-9303-4896-b689-6cc6c8b7b2ad)
