@@ -9,13 +9,13 @@ At the heart of Naive Bayes is Bayes' theorem, a fundamental concept in probabil
 The basic form of Bayes' theorem is expressed as:
 ![image](https://github.com/BimsaraS99/naive-bayes-algorithm-ml/assets/107334404/584ca7f2-113e-478a-840c-2c8ed328d469)
 
-P(B|A) is the posterior probability of class Y given the observed features X.
+P(B|A) is the posterior probability of class B given the observed features A.
 
-P(A|B) is the likelihood of observing the features X given class Y.
+P(A|B) is the likelihood of observing the features A given class B.
 
-P(B) is the prior probability of class Y.
+P(B) is the prior probability of class B.
 
-P(A) is the probability of observing the features X.
+P(A) is the probability of observing the features A.
 
 
 ## Application and Strengths:
